@@ -1,6 +1,7 @@
 # Hi 👋, I'm Frezzbe
 
-<img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=🖥️+I+am+a+Frezzbe+Front-End+developer+with+several+months+of+experience.+🖥️" alt="Frezzbe" />
+<img src="<img src="Hi+,+I'm Frezzbe" alt="Frezzbe" />
+" alt="Frezzbe" />
 
 </p>
 <div align="center">
