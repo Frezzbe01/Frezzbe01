@@ -1,5 +1,7 @@
 # Hi 👋, I'm Frezzbe
 
+<img src="https://readme-typing-svg.herokuapp.com?size=20&width=1024&lines=🖥️+I+am+a+Frezzbe+Front-End+developer+with+several+months+of+experience.+🖥️" alt="Frezzbe" />
+
 </p>
 <div align="center">
    <a href="https://discord.com/users/1035875392344571944" target="_blank">
