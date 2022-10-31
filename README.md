@@ -1,8 +1,5 @@
 # Hi 👋, I'm Frezzbe
 
-<img src="<img src="Hi+,+I'm Frezzbe" alt="Frezzbe" />
-" alt="Frezzbe" />
-
 </p>
 <div align="center">
    <a href="https://discord.com/users/1035875392344571944" target="_blank">
