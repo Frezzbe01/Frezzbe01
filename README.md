@@ -7,10 +7,6 @@
    </a>
 </div>
 
-
-<p><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Frezzbe01&theme=dark&show_icons=true&locale=en&layout=compact" alt="Frezzbe01"  /></p><p>&nbsp;<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=Frezzbe01&theme=dark&show_icons=true&locale=en" alt="Frezzbe01"  ></p>
-<hr />
-
 🔗 &nbsp;**Contact with me**
 <p align="left">
 <a href="https://discord.gg/GNJMSCmhYW" target"blank_"><img src="https://img.shields.io/badge/Frezzbe Cave%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
